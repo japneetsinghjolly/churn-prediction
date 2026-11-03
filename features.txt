@@ -1,0 +1,9 @@
+tenure
+MonthlyCharges
+TotalCharges
+InternetService_Fiber optic
+InternetService_No
+Contract_One year
+Contract_Two year
+OnlineSecurity_No internet service
+OnlineSecurity_Yes
